@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "blacklist": "^1.1.2",
-    "medium-editor": "^5.10.0",
+    "medium-editor": "kbomb/medium-editor.git#fix-import-selection-loop",
     "object-assign": "^4.0.1"
   },
   "devDependencies": {
